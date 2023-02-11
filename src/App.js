@@ -10,7 +10,6 @@ function App() {
         <div class="form-group">
           <div class="form-field">
             <label class="form-label">Discount type</label>
-
             <select class="select">
               <option>GLR</option>
               <option>BLR</option>
